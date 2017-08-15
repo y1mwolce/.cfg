@@ -1,0 +1,4 @@
+[http]
+	proxy = http://y1wolce:Zeiss2017!@proxy-zeiss.zeiss.org:8080/
+[https]
+	proxy = https://y1wolce:Zeiss2017!@proxy-zeiss.zeiss.org:8080/
