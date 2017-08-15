@@ -1,0 +1,12 @@
+[alias]
+  st = status
+  ci = commit
+  dt = difftool
+  co = checkout
+  br = branch
+
+[core]
+	excludesfile = /home/antymat/.gitignore_global
+[user]
+	name = Marcin Wolcendorf
+	email = antymat@chelmska.waw.pl
