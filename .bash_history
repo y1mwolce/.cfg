@@ -1,69 +1,67 @@
-ls -la
-vim
-tree
-tree
-ssh antymat@80.55.22.106
-man strip
-cd wo
+pwgen 20 1
+passwd 
+screen
 mkdir work
 cd work/
-git clone https://github.com/linux-test-project/ltp.git
-git clone https://github.com/linux-test-project/ltp.git
-set | grep proxy
-export https_proxy=https://proxy-zeiss.zeiss.org:8080/
-git clone https://github.com/linux-test-project/ltp.git
-export https_proxy=https://y1mwolce:Zeiss2017\!\@proxy-zeiss.zeiss.org:8080/
-git clone https://github.com/linux-test-project/ltp.git
-export http_proxy=https://y1mwolce:Zeiss2017\!\@proxy-zeiss.zeiss.org:8080/
-git clone https://github.com/linux-test-project/ltp.git
-git clone http://github.com/linux-test-project/ltp.git
-export http_proxy=http://y1mwolce:Zeiss2017\!\@proxy-zeiss.zeiss.org:8080/
-git clone http://github.com/linux-test-project/ltp.git
-unset http_proxy
-unset https_proxy
-set | grep http
-set | grep proxy
-git config --global http.proxy http://y1wolce:'Zeiss2017!'@proxy-zeiss.zeiss.org:8080/
-cd ..
 ls -la
-vim .gitconfig 
-git config --global https.proxy https://y1wolce:'Zeiss2017!'@proxy-zeiss.zeiss.org:8080/
-cd work
-reset
-reset
-git clone http://github.com/linux-test-project/ltp.git
-git clone https://github.com/linux-test-project/ltp.git
-git clone https://github.com/linux-test-project/ltp.git
+svn 
+git
+locate gcc
+echo $PATH
+cd /smt/stm32/
 ls
-cd ..
+cd STM32Cube_FW_F4
 ls -la
-cd /cygdrive/c/Users/y1mwolce/
-ls
-cd Downloads/
-;s =l;a
+cd ../openocd/
 ls -la
-mv ltp-master.zip ~
+tree
 cd 
-ls
-cd work/
-unzip ../ltp-master.zip 
-cd ltp-master/
 ls -la
-vim Makefile
-vim Makefile
-vim Makefile
-shs
-ssh
-snv
-ssh
-ssh cimsel.deoko.zeiss.org
-ssh-keygen
-ssh-copy-id cimsel.deoko.zeiss.org
-ssh cimsel.deoko.zeiss.org
-ssh cimsel.deoko.zeiss.org
-pwgen 20 1
-pwgen 20 1
-ssh cimsel.deoko.zeiss.org
-ssh cimsel.deoko.zeiss.org
-ssh cimsel.deoko.zeiss.org
-ssh cimsel.deoko.zeiss.org
+cd work/
+ls -la
+svn co https://smt-svn.zeiss.org/svn/54_startup/trunk/xyalopes/stm32
+ls -la
+cd stm32/
+ls -la
+cat README 
+ls -la
+cd src
+ls -la
+vim settings.mk 
+cd work/
+ls 
+cd stm32/
+ls -la
+tree
+ls -la
+less README 
+vim Makefile 
+make
+cd ..
+eset | grep proxy
+set | grep proxy
+ls
+git clone https://github.com/linux-test-project/ltp.git
+ls
+cd stm32/
+ls
+make 
+ls -la
+cd src
+ls -la
+cd examples/
+ls -la
+tree
+ls
+cd stm32-f401re/
+ls
+cd spi_loopback_st_hal/
+ls -la
+less README 
+ls
+cd build/
+ls -l
+ls
+cd ..
+ls
+vim Makefile 
