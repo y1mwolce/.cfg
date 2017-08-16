@@ -1,0 +1,9 @@
+defscrollback 10000
+hardstatus on
+hardstatus alwayslastline
+#caption always "%n(%t) : %C"
+#caption always "%{= kc}%H (system load: %l)%-21=%{= .m}%D %d.%m.%Y %0c"
+caption string "%?%F%{= Bk}%? %c %D %Y-%m-%d %{= kB} %t%= %?%F%{= Bk}%:%{= wk}%? %n "
+hardstatus alwayslastline
+hardstatus string '%{= kG}[ %{G}%H %{g}][%= %{= kw}%?%-Lw%?%{r}(%{W}%n*%f%t%?(%u)%?%{r})%{w}%?%+Lw%?%?%= %{g}][%{B} %d/%m %{W}%c %{g}]'
+
