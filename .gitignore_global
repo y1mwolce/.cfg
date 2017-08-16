@@ -1,0 +1,26 @@
+# Node
+npm-debug.log
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# WebStorm
+.idea/
+
+# vi
+*~
+.sw?
+.*.sw?
+Session.vim
+
+# General
+log/
+*.log
+
+#cscope 
+cscope.out
+cscope.files
+

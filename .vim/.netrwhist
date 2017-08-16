@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/antymat/work/wolfVision'
+let g:netrw_dirhist_2='/home/y1mwolce'
+let g:netrw_dirhist_3='/home/y1mwolce/work'
+let g:netrw_dirhist_4='/home/y1mwolce'
+let g:netrw_dirhist_5='/home/y1mwolce/work'
