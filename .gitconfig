@@ -1,3 +1,13 @@
 [user]
 	email = marcin.wolcendorf@zeiss.com
 	name = Marcin Wolcendorf
+[https]
+	#proxy = https://CZNET\\"y1wolce:s6aC,Jr'$q"@proxy-zeiss.zeiss.org:8080/
+	sslVerify = false
+	sslCAInfo = /home/y1mwolce/X509/proxy_cert.cer
+	proxy = https://proxy-zeiss.zeiss.org:8080
+[http]
+	#proxy = http://CZNET\\"y1wolce:s6aC,Jr'$q"@proxy-zeiss.zeiss.org:8080/
+	sslVerify = false
+	sslCAInfo = /home/y1mwolce/X509/proxy_cert.cer
+	proxy = http://proxy-zeiss.zeiss.org:8080
